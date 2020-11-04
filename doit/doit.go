@@ -1,7 +1,10 @@
-pdddackage doit
+package doit
+
+
+const VERSION string = "1.1"
+
 
 func Doit() string {
-	const VERSION string = "1.1"
 	return "hello world! " + VERSION 
 }
 
