@@ -1,7 +1,7 @@
 package main
 
 import (
-	"mygo/doit"
+	"github.com/jdobner/mygo/doit"
 	"fmt"
 )
 

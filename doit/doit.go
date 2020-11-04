@@ -1,7 +1,7 @@
 package doit
 
 
-const VERSION string = "1.1"
+const VERSION string = "1.2"
 
 
 func Doit() string {
