@@ -1,4 +1,4 @@
-package doit
+pdddackage doit
 
 func Doit() string {
 	const VERSION string = "1.1"
